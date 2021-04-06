@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Pager" parent="Theme.MaterialComponents.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/OrangeRed</item>
+        <item name="colorPrimaryVariant">@color/Orange</item>
+        <item name="colorOnPrimary">@color/Chocolate</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/Orange</item>
+        <item name="colorSecondaryVariant">@color/OrangeRed</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Toolbar" parent="Theme.AppCompat.NoActionBar" />
+</resources>

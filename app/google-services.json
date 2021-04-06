@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "221125518919",
+    "project_id": "pager-8829e",
+    "storage_bucket": "pager-8829e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221125518919:android:e361fab14ef9d5bc8a3362",
+        "android_client_info": {
+          "package_name": "com.sdainfo.pager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221125518919-41977aaae14vbun6n8ccj24aot7umr97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAW550Tb7l_oM1mivsCxGGm-nzHGKkrBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221125518919-41977aaae14vbun6n8ccj24aot7umr97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

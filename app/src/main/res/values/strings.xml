@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Pager</string>
+    <string name="todo">TODO</string>
+    <string name="cadastre">não tem conta? cadastre-se</string>
+    <string name="entrar">Entrar</string>
+    <string name="e_mail">e-mail</string>
+    <string name="senha">senha</string>
+    <string name="nome">nome</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="pesquisar">Pesquisar</string>
+    <string name="configura_o">Configuração</string>
+    <string name="sair">Sair</string>
+
+    <string name="contatos">contatos</string>
+    <string name="conversas">conversas</string>
+    <string name="conversa">Conversas</string>
+    <string name="contato">Contatos</string>
+    <string name="txt_user">Nome de usuário visivel para seus contatos</string>
+
+</resources>
